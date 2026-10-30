@@ -1,6 +1,6 @@
 # claude-settings.json
 
-Configuration Claude Code partagée : plugins **ECC** (`ecc@ecc`) et **Replica** (`replica-skill@replica-skill`).
+Configuration Claude Code partagée : plugins **ECC** (`ecc@ecc`) et **Replica** (`replica-skill@replica-skill`), plus le skill **find-skills** (`.claude/skills/find-skills`).
 
 ## Utilisation
 
