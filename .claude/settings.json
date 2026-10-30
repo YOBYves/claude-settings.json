@@ -1,0 +1,19 @@
+{
+  "extraKnownMarketplaces": {
+    "ecc": {
+      "source": { "source": "git", "url": "https://github.com/affaan-m/ECC.git" }
+    },
+    "replica-skill": {
+      "source": { "source": "github", "repo": "Jakeschincariol/replica-skill" }
+    }
+  },
+  "enabledPlugins": {
+    "ecc@ecc": true,
+    "replica-skill@replica-skill": true
+  },
+  "pluginConfigs": {
+    "ecc@ecc": {
+      "options": { "hooks_enabled": true, "hook_profile": "standard" }
+    }
+  }
+}
